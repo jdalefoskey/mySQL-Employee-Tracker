@@ -1,24 +1,24 @@
 {
-  "name": "mysql-employee-tracker",
+  "name": "employeetracker",
   "version": "1.0.0",
-  "description": "mySQL Employee Tracker",
-  "main": "employeeCode.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jdalefoskey/mySQL-Employee-Tracker.git"
   },
-  "author": "Dale Foskey",
-  "license": "UNLICENSED",
+  "keywords": [],
+  "author": "dale foskey",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jdalefoskey/mySQL-Employee-Tracker/issues"
+    "url": "https://github.com/jdalefoskey/mySQL-Employee-Tracker"
   },
-  "homepage": "https://github.com/jdalefoskey/mySQL-Employee-Tracker#readme",
+  "homepage": "https://github.com/jdalefoskey/mySQL-Employee-Tracker",
   "dependencies": {
-    "fs": "0.0.1-security",
+    "dotenv": "^8.2.0",
     "inquirer": "^7.3.3",
     "mysql": "^2.18.1"
   }
