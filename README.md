@@ -26,7 +26,7 @@
 
   ### Installation
   ---
-  > To get started you need to istall dependancies with the first command, then start the application with the second command. From root folder type the following in the terminal window
+  > To get started you need to install dependancies with the first command, then start the application with the second command. From root folder type the following in the terminal window
   
   ```
         npm i
